@@ -1,12 +1,10 @@
 var searchData=
 [
-  ['i_39',['i',['../da/d37/classroaring_1_1RoaringSetBitForwardIterator.html#a7ef4efb277fe239608d0f368cbe25126',1,'roaring::RoaringSetBitForwardIterator']]],
-  ['idx_40',['idx',['../db/d0d/structroaring__bulk__context__s.html#a54c6dae812b9d8c5bfb96fa6cc2a0bba',1,'roaring_bulk_context_s']]],
-  ['intersect_41',['intersect',['../d1/d51/classroaring_1_1Roaring.html#a725ff11673c9696277c0a31689a3dd12',1,'roaring::Roaring']]],
-  ['isempty_42',['isEmpty',['../d1/d51/classroaring_1_1Roaring.html#ac3f8cb65dabb943bab59aa8e2441faad',1,'roaring::Roaring::isEmpty()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#a883e029163c4dee0e548626164ce8c16',1,'roaring::Roaring64Map::isEmpty() const']]],
-  ['isfull_43',['isFull',['../d4/dcf/classroaring_1_1Roaring64Map.html#ad5cc01aeff7cfd81d7ce2f08b7b9b281',1,'roaring::Roaring64Map']]],
-  ['isstrictsubset_44',['isStrictSubset',['../d1/d51/classroaring_1_1Roaring.html#af9acd7b0c689e1ef23bca3b3039fd211',1,'roaring::Roaring::isStrictSubset()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#afefe15dc5a3e053d094222b4bd277dce',1,'roaring::Roaring64Map::isStrictSubset()']]],
-  ['issubset_45',['isSubset',['../d1/d51/classroaring_1_1Roaring.html#ae54cf23d5f1b327fb13fab83800d88f3',1,'roaring::Roaring::isSubset()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#a4fd8fc1d75cdd5e539e0fed39cc5e654',1,'roaring::Roaring64Map::isSubset()']]],
-  ['iterate_46',['iterate',['../d1/d51/classroaring_1_1Roaring.html#aab10adf454586da9a4589b6f1ab3dfed',1,'roaring::Roaring::iterate()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#ae5d56a187810e7fd1cef36f80c2a67f1',1,'roaring::Roaring64Map::iterate()']]],
-  ['iterator_5fcategory_47',['iterator_category',['../da/d37/classroaring_1_1RoaringSetBitForwardIterator.html#a9c151ea75262aaf9752ab727aa8cb9ab',1,'roaring::RoaringSetBitForwardIterator::iterator_category()'],['../d3/d48/classroaring_1_1Roaring64MapSetBitBiDirectionalIterator.html#a8ad5c5ebc55e208ad27aba6bc8cbb850',1,'roaring::Roaring64MapSetBitBiDirectionalIterator::iterator_category()']]]
+  ['getcopyonwrite_0',['getcopyonwrite',['../d1/d51/classroaring_1_1Roaring.html#aa3a45100e354d3d4d348c0cb08b9353b',1,'roaring::Roaring::getCopyOnWrite()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#a7b6b5483e3c8afb96ea5aaba064632cd',1,'roaring::Roaring64Map::getCopyOnWrite()']]],
+  ['getfrozensizeinbytes_1',['getfrozensizeinbytes',['../d1/d51/classroaring_1_1Roaring.html#a0b3ab3f5da48d69f43a85b21c8f6196b',1,'roaring::Roaring::getFrozenSizeInBytes()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#a0f857b498b247022ff184581acaf1595',1,'roaring::Roaring64Map::getFrozenSizeInBytes()']]],
+  ['getindex_2',['getindex',['../d1/d51/classroaring_1_1Roaring.html#aee90d40c2b4ac2069c3d4440d7dd5be5',1,'roaring::Roaring::getIndex()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#affc3bb231ef8476580188049f08a3e9c',1,'roaring::Roaring64Map::getIndex()']]],
+  ['getsizeinbytes_3',['getsizeinbytes',['../d1/d51/classroaring_1_1Roaring.html#aa879e2858a0b55c702131fe9554c2637',1,'roaring::Roaring::getSizeInBytes()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#ad6e5c423a34de4a3711a2ad4cf1bf502',1,'roaring::Roaring64Map::getSizeInBytes()']]],
+  ['go_20golang_4',['Go (Golang)',['../index.html#autotoc_md48',1,'']]],
+  ['golang_5',['Go (Golang)',['../index.html#autotoc_md48',1,'']]],
+  ['group_6',['Mailing list/discussion group',['../index.html#autotoc_md53',1,'']]]
 ];

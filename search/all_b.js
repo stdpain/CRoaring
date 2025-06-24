@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['leaf_50',['leaf',['../df/dce/structroaring64__bulk__context__s.html#ac1c1e04fc8ac939eabee19b5ab0c992f',1,'roaring64_bulk_context_s']]]
+  ['jaccard_5findex_0',['jaccard_index',['../d1/d51/classroaring_1_1Roaring.html#add2c2d7d75b08900498ee7744a61a210',1,'roaring::Roaring']]],
+  ['javascript_20node_20js_1',['JavaScript (Node.js)',['../index.html#autotoc_md45',1,'']]],
+  ['js_2',['JavaScript (Node.js)',['../index.html#autotoc_md45',1,'']]]
 ];

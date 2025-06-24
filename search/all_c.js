@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['maximum_51',['maximum',['../d1/d51/classroaring_1_1Roaring.html#af7029f92076b5b7ea9ddc4bc3551dcd9',1,'roaring::Roaring::maximum()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#a4b4a35703d4187e85378b969ee4f3df4',1,'roaring::Roaring64Map::maximum()']]],
-  ['minimum_52',['minimum',['../d1/d51/classroaring_1_1Roaring.html#adc787c794380d50e2ee1e31e81017240',1,'roaring::Roaring::minimum()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#ab3de6c60784eed4b32cfb998ad35adb8',1,'roaring::Roaring64Map::minimum()']]],
-  ['move_53',['move',['../d3/d48/classroaring_1_1Roaring64MapSetBitBiDirectionalIterator.html#a54e84a33347ef2821707bb5b54a32f88',1,'roaring::Roaring64MapSetBitBiDirectionalIterator']]]
+  ['key_0',['key',['../db/d0d/structroaring__bulk__context__s.html#af3dbd91adf2ee030dfc44a527eecdc91',1,'roaring_bulk_context_s']]]
 ];

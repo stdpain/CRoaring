@@ -1,7 +1,10 @@
 var searchData=
 [
-  ['has_5fvalue_35',['has_value',['../da/d27/structroaring__uint32__iterator__s.html#a99e95f8cbd08320c6ac27b1569ca6bb4',1,'roaring_uint32_iterator_s']]],
-  ['high_5fbytes_36',['high_bytes',['../df/dce/structroaring64__bulk__context__s.html#a3dad528d3cc158f622898442e311044b',1,'roaring64_bulk_context_s']]],
-  ['high_5flow_5fcontainer_37',['high_low_container',['../dd/d7a/structroaring__bitmap__s.html#acf42856216e3a50da302ef1c34269d19',1,'roaring_bitmap_s']]],
-  ['highbits_38',['highbits',['../da/d27/structroaring__uint32__iterator__s.html#ab133b03c8a997b36abeece06dbf909d7',1,'roaring_uint32_iterator_s']]]
+  ['fastunion_0',['fastunion',['../d1/d51/classroaring_1_1Roaring.html#a08aafea61f2ea2176d59a73cbb348d96',1,'roaring::Roaring::fastunion()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#a85b1c96beaa6c0358983a9b56fc4cc17',1,'roaring::Roaring64Map::fastunion()']]],
+  ['fetchcontent_1',['Using as a CMake dependency with FetchContent',['../index.html#autotoc_md8',1,'']]],
+  ['flip_2',['flip',['../d1/d51/classroaring_1_1Roaring.html#aaa50b7f966f380bfc399660642909e66',1,'roaring::Roaring::flip()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#a02c0cb520fdd31cadda8811f01737dbb',1,'roaring::Roaring64Map::flip()']]],
+  ['flipclosed_3',['flipclosed',['../d1/d51/classroaring_1_1Roaring.html#a8d4ab1c04a7dc9020001b9006d8e5476',1,'roaring::Roaring::flipClosed()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#a17aa887118794517f874a5388c512dc5',1,'roaring::Roaring64Map::flipClosed(uint32_t min, uint32_t max)'],['../d4/dcf/classroaring_1_1Roaring64Map.html#acda9215fa264f44250413ce6f99d6a08',1,'roaring::Roaring64Map::flipClosed(uint64_t min, uint64_t max)']]],
+  ['for_20roaring_20bitmaps_4',['Wrappers for Roaring Bitmaps',['../index.html#autotoc_md43',1,'']]],
+  ['frozenview_5',['frozenview',['../d1/d51/classroaring_1_1Roaring.html#a778becc5ac4102e417dc6e3cf8e85340',1,'roaring::Roaring::frozenView()'],['../d4/dcf/classroaring_1_1Roaring64Map.html#a8e841864dcba989a6d469cbc26d6a23a',1,'roaring::Roaring64Map::frozenView()']]],
+  ['functions_6',['functions',['../index.html#autotoc_md20',1,'C++ API functions'],['../index.html#autotoc_md11',1,'Main API functions']]]
 ];
